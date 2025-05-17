@@ -1,8 +1,8 @@
 CARA 1 
- 
+ yaitu.
  git init
  git add .
  git commit -m "first commit"
 git brach -M main
 git remot (name remote)
-git push -u origin main
+git remot (name remote)
