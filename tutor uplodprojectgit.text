@@ -3,6 +3,6 @@ CARA 1
  git init
  git add .
  git commit -m "first commit"
-git branch -M main
+git brach -M main
 git remot (name remote)
-git remot (name remote)
+git push -u origin main

@@ -1,0 +1,12 @@
+update 
+
+ git init
+ git add .
+ git commit -m "first commit"
+git brach -M main
+git remot (name remote)
+git push -u origin main
+
+git add .
+git commit -m "update pesan "
+git push origin main
